@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/ighortorquato/GoProgram.git/config"
 	r "github.com/ighortorquato/GoProgram.git/router"
-	"github.com/ighortorquato/GoProgram.git/schemas/config"
 )
 
 var (
